@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 939c39f04ec4ead4882e50726c64e228
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1257434643413201445
+    second: Infernus_Hellscape_Rubble2_1_0
+  - first:
+      213: 8052455372851907429
+    second: Infernus_Hellscape_Rubble2_1_1
+  - first:
+      213: 7905424929026650753
+    second: Infernus_Hellscape_Rubble2_1_2
+  - first:
+      213: 8155032778584248190
+    second: Infernus_Hellscape_Rubble2_1_3
+  - first:
+      213: -876326593714650437
+    second: Infernus_Hellscape_Rubble2_1_4
+  - first:
+      213: 7682130641448181164
+    second: Infernus_Hellscape_Rubble2_1_5
+  - first:
+      213: 4701628931468694570
+    second: Infernus_Hellscape_Rubble2_1_6
+  - first:
+      213: 4989796692725187124
+    second: Infernus_Hellscape_Rubble2_1_7
+  - first:
+      213: -7180187947876375300
+    second: Infernus_Hellscape_Rubble2_1_8
+  - first:
+      213: -6362750977950054755
+    second: Infernus_Hellscape_Rubble2_1_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Infernus_Hellscape_Rubble2_1_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 146
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522f9e0652e437110800000000000000
+      internalID: 1257434643413201445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernus_Hellscape_Rubble2_1_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 153
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b06847f7110cf60800000000000000
+      internalID: 8052455372851907429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernus_Hellscape_Rubble2_1_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 105
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182b6259616b5bd60800000000000000
+      internalID: 7905424929026650753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernus_Hellscape_Rubble2_1_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 122
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f4e2bda1f7c2170800000000000000
+      internalID: 8155032778584248190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernus_Hellscape_Rubble2_1_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 80
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb209622b99a6d3f0800000000000000
+      internalID: -876326593714650437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernus_Hellscape_Rubble2_1_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 102
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad99a1ed196c9a60800000000000000
+      internalID: 7682130641448181164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernus_Hellscape_Rubble2_1_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 82
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2414e55a9a8f3140800000000000000
+      internalID: 4701628931468694570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernus_Hellscape_Rubble2_1_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 67
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432cd4ba7a15f3540800000000000000
+      internalID: 4989796692725187124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernus_Hellscape_Rubble2_1_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 15
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a94a8a19da5c90800000000000000
+      internalID: -7180187947876375300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infernus_Hellscape_Rubble2_1_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 28
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96840562b7f2b7a0800000000000000
+      internalID: -6362750977950054755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Infernus_Hellscape_Rubble2_1_0: 1257434643413201445
+      Infernus_Hellscape_Rubble2_1_1: 8052455372851907429
+      Infernus_Hellscape_Rubble2_1_2: 7905424929026650753
+      Infernus_Hellscape_Rubble2_1_3: 8155032778584248190
+      Infernus_Hellscape_Rubble2_1_4: -876326593714650437
+      Infernus_Hellscape_Rubble2_1_5: 7682130641448181164
+      Infernus_Hellscape_Rubble2_1_6: 4701628931468694570
+      Infernus_Hellscape_Rubble2_1_7: 4989796692725187124
+      Infernus_Hellscape_Rubble2_1_8: -7180187947876375300
+      Infernus_Hellscape_Rubble2_1_9: -6362750977950054755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

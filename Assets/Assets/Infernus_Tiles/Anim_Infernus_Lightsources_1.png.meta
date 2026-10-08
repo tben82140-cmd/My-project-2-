@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 97795d22efe2dd54387663ce9ee40749
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1584053972177535279
+    second: Anim_Infernus_Lightsources_1_0
+  - first:
+      213: -2807655526614574595
+    second: Anim_Infernus_Lightsources_1_1
+  - first:
+      213: 3350351202584686596
+    second: Anim_Infernus_Lightsources_1_2
+  - first:
+      213: -1336954187518244412
+    second: Anim_Infernus_Lightsources_1_3
+  - first:
+      213: 4715141419188676211
+    second: Anim_Infernus_Lightsources_1_4
+  - first:
+      213: -3051566250836501862
+    second: Anim_Infernus_Lightsources_1_5
+  - first:
+      213: 7076829891763817409
+    second: Anim_Infernus_Lightsources_1_6
+  - first:
+      213: -5284100385866722907
+    second: Anim_Infernus_Lightsources_1_7
+  - first:
+      213: -5135779881783001636
+    second: Anim_Infernus_Lightsources_1_8
+  - first:
+      213: -2390023019974471446
+    second: Anim_Infernus_Lightsources_1_9
+  - first:
+      213: -5004259967198641106
+    second: Anim_Infernus_Lightsources_1_10
+  - first:
+      213: -8677122536593692348
+    second: Anim_Infernus_Lightsources_1_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2140bce1b0bbf510800000000000000
+      internalID: 1584053972177535279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9d9749c243909d0800000000000000
+      internalID: -2807655526614574595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 290
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400fcd6faa6de7e20800000000000000
+      internalID: 3350351202584686596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 194
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9010cff3f227de0800000000000000
+      internalID: -1336954187518244412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 290
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376e87c832c8f6140800000000000000
+      internalID: 4715141419188676211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ad15aa9a8a6a5d0800000000000000
+      internalID: -3051566250836501862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 97
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbc27aba43f53260800000000000000
+      internalID: 7076829891763817409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 194
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1d8e602ba1ba6b0800000000000000
+      internalID: -5284100385866722907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddf9b5786b0ab8b0800000000000000
+      internalID: -5135779881783001636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae05a69e9bee4ded0800000000000000
+      internalID: -2390023019974471446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 97
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24ca63d21c4d8ab0800000000000000
+      internalID: -5004259967198641106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Infernus_Lightsources_1_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449ebcdb60ba49780800000000000000
+      internalID: -8677122536593692348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Anim_Infernus_Lightsources_1_0: 1584053972177535279
+      Anim_Infernus_Lightsources_1_1: -2807655526614574595
+      Anim_Infernus_Lightsources_1_10: -5004259967198641106
+      Anim_Infernus_Lightsources_1_11: -8677122536593692348
+      Anim_Infernus_Lightsources_1_2: 3350351202584686596
+      Anim_Infernus_Lightsources_1_3: -1336954187518244412
+      Anim_Infernus_Lightsources_1_4: 4715141419188676211
+      Anim_Infernus_Lightsources_1_5: -3051566250836501862
+      Anim_Infernus_Lightsources_1_6: 7076829891763817409
+      Anim_Infernus_Lightsources_1_7: -5284100385866722907
+      Anim_Infernus_Lightsources_1_8: -5135779881783001636
+      Anim_Infernus_Lightsources_1_9: -2390023019974471446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
